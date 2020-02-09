@@ -6,5 +6,5 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 
-  Ingreso al formulario de login 
+  Ingreso al formulario de login Ejemplo
 </asp:Content>
